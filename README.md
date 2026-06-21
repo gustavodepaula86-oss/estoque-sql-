@@ -136,3 +136,8 @@ Araçatuba – SP, Brasil
 
 Visualização interativa dos dados de estoque:
 https://datastudio.google.com/u/0/reporting/03d0da01-9529-44a9-a1ab-217418f274a8/page/Xea1F
+
+## 📊 Dashboard Interativo
+
+Visualização dos dados no Looker Studio:
+🔗 https://datastudio.google.com/reporting/03d0da01-9529-44a9-a1ab-217418f274a8
