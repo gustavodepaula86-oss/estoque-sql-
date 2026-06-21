@@ -132,10 +132,6 @@ ORDER BY p.descricao;
 **Gustavo de Paula**  
 [gustavodepaula.86@gmail.com](mailto:gustavodepaula.86@gmail.com)  
 Araçatuba – SP, Brasil
-## 📊 Dashboard
-
-Visualização interativa dos dados de estoque:
-https://datastudio.google.com/u/0/reporting/03d0da01-9529-44a9-a1ab-217418f274a8/page/Xea1F
 
 ## 📊 Dashboard Interativo
 
