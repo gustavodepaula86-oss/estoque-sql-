@@ -40,7 +40,7 @@ Registra todas as entradas e saídas de produtos.
 | produto_id  | INTEGER | Chave estrangeira → produtos.id  |
 | tipo        | TEXT    | 'entrada' ou 'saida'             |
 | quantidade  | INTEGER | Quantidade movimentada           |
-| data        | TEXT    | Data da movimentação             |
+| data        | TEXT (YYYY-MM-DD)| Data da movimentação.   |
 | observacao  | TEXT    | Observação opcional              |
 
 ---
